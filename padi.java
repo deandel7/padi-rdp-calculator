@@ -1,6 +1,7 @@
 import java.util.*;
 import java.util.Scanner;
 public class padi {
+    // testing
     static char pressureGroup3;
     static char pressureGroup2;
     static char pressureGroup4;
